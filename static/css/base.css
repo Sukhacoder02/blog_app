@@ -1,0 +1,24 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),
+    url("./../images/moroccan-flower.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
+* {
+  padding: 2px;
+}
+h1 {
+  text-align: center;
+}
+header h1 a {
+  color: crimson;
+  text-align: center;
+}
+h2 {
+  color: darkred;
+}
+p {
+  color: darkkhaki;
+}
